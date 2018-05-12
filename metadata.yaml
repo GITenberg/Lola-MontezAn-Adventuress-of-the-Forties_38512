@@ -1,0 +1,28 @@
+_repo: Lola-MontezAn-Adventuress-of-the-Forties_38512
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38512-h/images/cover.jpg
+creator:
+  author:
+    agent_name: D'Auvergne, Edmund B. (Edmund Basil)
+    aliases:
+    - D'Auvergne, Edmund Basil Francis
+    - d'Auvergne, Edmund B.
+    - D'Auvergne, Edward B. (Edward Basil)
+    gutenberg_agent_id: '39509'
+    url: http://www.gutenberg.org/2009/agents/39509
+description: ''
+gutenberg_issued: '2012-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Montez, Lola, 1818-1861'
+- !lcc 'DD'
+title: 'Lola Montez: An Adventuress of the ''Forties'
+url: http://www.gutenberg.org/ebooks/38512
